@@ -1,4 +1,4 @@
-#Pricing component with toggle solution
+# Pricing component with toggle
 
 
 Users should be able to:
